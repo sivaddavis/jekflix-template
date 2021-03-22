@@ -1,13 +1,9 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Davis Song
+title: Davis | A blog
+description: A blog for Davis Song
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Davis Song
 show_hero: true
 menu:
   - title: Home
@@ -18,5 +14,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: davis@davissong.com
 disqus_username: disqus_username

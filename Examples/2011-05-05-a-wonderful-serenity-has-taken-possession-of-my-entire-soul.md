@@ -1,15 +1,16 @@
 ---
-date: 2018-04-21 12:26:40
+date: 2018-07-20 12:26:40
 layout: post
-title: Candy, candies, candy!
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822137/theme11_vei7iw.jpg
-category: diet
+title: Why I no longer find joy in videography.
+subtitle: Put the camera down and walk away slowly. 
+description: Why I no longer find joy in videography.
+image: https://res.cloudinary.com/dcavyfbnw/image/upload/v1616225435/IMG_1680_pspw7w.jpg
+optimized_image: https://res.cloudinary.com/dcavyfbnw/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1616225435/IMG_1680_pspw7w.jpg
+category: code
 tags:
-  - food
-  - tips
+  - platform
+  - javascript
+  - vscode
 author: thiagorossener
 ---
 

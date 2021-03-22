@@ -1,14 +1,10 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Davis Song
+title: Davis | A blog
+description: A blog for Davis Song
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Davis Song
 show_hero: true
 menu:
   - title: Home
@@ -19,30 +15,30 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: davis@davissong.com
 disqus_username: disqus_username
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: sivaddavis
 facebook_username: facebook_username
 twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
+instagram_username: davis_song_
+linkedin_username: davis-song-400283a4
 medium_username: medium_username
 
 
 # Posts Settings
 show_time_bar: true
 show_modal_on_exit: false
-show_modal_on_finish_post: true
-two_columns_layout: true
+show_modal_on_finish_post: false
+two_columns_layout: false
 
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://davissong.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
@@ -57,7 +53,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator

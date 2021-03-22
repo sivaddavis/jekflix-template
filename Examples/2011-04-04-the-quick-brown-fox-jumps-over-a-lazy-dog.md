@@ -1,17 +1,17 @@
 ---
-date: 2018-02-03 12:26:40
+date: 2018-10-09 12:26:40
 layout: post
-title: How to turn your dog into a Jedi master
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
-category: tutorial
+title: What to look for in a mentor.
+subtitle: My perspective as a mentee.
+description: What to look for in a mentor.
+image: https://res.cloudinary.com/dcavyfbnw/image/upload/v1616223606/P1011735_kqsmrm.jpg
+optimized_image: https://res.cloudinary.com/dcavyfbnw/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1616223606/P1011735_kqsmrm.jpg
+category: css
 tags:
-  - jedi
-  - doggo
-  - starwars
+  - css
+  - tips
 author: thiagorossener
+paginate: true
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
